@@ -3,6 +3,7 @@
 Hello! My name is Rachel. 
 
 🌱 I’m currently learning Front End Web Development at the University of New Hampshire.
+
 📫 How to reach me:
 - Twitter: 
 - LinkedIn: 
