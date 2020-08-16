@@ -6,7 +6,7 @@ Hello! My name is Rachel.
 
 📫 How to reach me:
 - Twitter: 
-- LinkedIn: 
+- (LinkedIn):[https://www.linkedin.com/in/rachel-elizabeth-campbell-2273a8137/] 
 
 <!--
 **relizabet/relizabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
