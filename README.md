@@ -2,7 +2,7 @@
 
 Hello! My name is Rachel. 
 
-🌱 I’m currently learning Front End Web Development at the University of New Hampshire.
+🌱 I am a Front End Web Developer and studied at the University of New Hampshire.
 
 📫 How to reach me:
 - [Twitter](https://twitter.com/rachelizacampb1) 
