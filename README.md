@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-Hello! My name is Rachel. 
-
-🌱 Front End Web Developer
-
-📫 How to reach me:
-- [Twitter](https://twitter.com/rachelizacampb1) 
-- [LinkedIn](https://www.linkedin.com/in/rachel-elizabeth-campbell-2273a8137/)
-- [Portfolio](https://relizabeth.com)
-
 <!--
 **relizabet/relizabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
